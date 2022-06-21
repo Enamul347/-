@@ -1,0 +1,173 @@
+*{
+
+}
+/* header section  */
+#header{
+
+width: 100%;
+
+float: left;
+
+background: cadetblue;
+
+color: darkred;
+}
+.container{
+
+}
+.main-header{
+
+}
+.logo-part{
+
+width: 40%;
+
+float: left;
+}
+.menu-part{
+
+width: 60%;
+
+float: left;
+}
+.part-1{
+
+}
+.part-2{
+
+}
+.logo-part img{
+
+width: 100px;
+
+height: 100px;
+
+padding: 15px 30px 0px 50px;
+}
+.menu-part img a{
+
+}
+.main-header h5{
+
+padding-left: 20px;
+
+color: rgb(3, 3, 21);
+}
+.main-header h4{
+
+}
+.main-header h1{
+
+}
+.logo h1{
+
+font-size: 68px;
+}
+.logo h4{
+    
+padding-left: 550px;
+    
+color: gold;
+}
+/* pad section  */
+#pad{
+
+width: 100%;
+
+float: left;
+
+background: ghostwhite;
+}
+.container{
+
+width: 90%;
+
+float: left;
+}
+.menu-part1{
+
+}
+.menu-part2{
+
+}
+
+
+/* footer section  */
+#footer{
+
+width: 100%;
+
+float: left;
+
+background: burlywood;
+}
+.footer-main{
+
+width: 100%;
+
+float: left;
+}
+.footer-main ul li{
+
+list-style-position: inside;
+
+text-decoration: none;
+}
+/* skill section  */
+#skill{
+
+width: 100%;
+
+float: left;
+
+background: antiquewhite;
+}
+.container{
+
+}
+.skill-main{
+    width: 32%;
+    float: left;
+}
+.skill-mid{
+
+width: 34%;
+
+float: left;
+}
+
+.skill-mid img{width: 340px;height: 220px !important;}
+.dot{
+    
+font-size: 28px;
+    
+padding: 15px 0px;
+}
+.skill-main ul li{
+
+}
+.skill-main ul li{
+    list-style: none;
+}
+/* pad section  */
+#pad{
+
+}
+.container{
+
+}
+.pad-part1{
+}
+.pad-part2{
+    
+padding: 100px 50px 20px 0px;
+}
+.pad-part1 ul li{
+
+list-style: none;
+
+padding: 50px 0px;
+}
+.pad-part2 ul li{
+
+}
